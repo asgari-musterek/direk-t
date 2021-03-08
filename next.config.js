@@ -1,10 +1,11 @@
+require('dotenv').config()
+
 module.exports = {
-  "trailingSlash": true,
+  trailingSlash: true,
+  basePath: process.env.NEXT_BASE_PATH,
+  assetPrefix: process.env.NEXT_BASE_PATH,
   webpack: (config) => {
     return Object.assign({}, config, {
-      // externals: Object.assign({}, config.externals, {
-      //   fs: 'fs',
-      // }),
       module: Object.assign({}, config.module, {
         rules: config.module.rules.concat([
           {

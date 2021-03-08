@@ -23,10 +23,10 @@ const AudioPlayer = (props) => {
         defaultDuration="0:00"
         ref={player}
         customIcons={{
-          play: <img src="/play_circle.svg" width="40" />,
-          forward: <img src="/forward.svg" width="30" />,
-          rewind: <img src="/replay.svg" width="30" />,
-          pause: <img src="/pause_circle.svg" width="40" />,
+          play: <img src={process.env.NEXT_PUBLIC_URL+"play_circle.svg"} width="40" />,
+          forward: <img src={process.env.NEXT_PUBLIC_URL+"forward.svg"} width="30" />,
+          rewind: <img src={process.env.NEXT_PUBLIC_URL+"replay.svg"} width="30" />,
+          pause: <img src={process.env.NEXT_PUBLIC_URL+"pause_circle.svg"} width="40" />,
         }}
       />
     </Wrapper>
