@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
+
+body {
+  font-family: 'Barlow', 'Arial', sans-serif;
+  padding: 0;
+  text-align: center;
+  font-size: 16px;
+  line-height: 159.9%;
+  color: #444444;
+  background: #fff;;
+  margin: 0;
+  min-height: 100vh;
+}
+
+body .rhap_container {
+  background-color: transparent;
+  padding: 0;
+  box-shadow: none;
+  text-align: center;
+}
+
+body .rhap_progress-bar{
+  height: 1px;
+  background-color: #F486A0;
+}
+
+body .rhap_progress-indicator{
+  height: 7px;
+  width: 7px;
+  background-color: #fff;
+  margin-left: -3px;
+  top: -3px;
+}
+
+body .rhap_time{
+  color: #fff;
+  font-size: 12px;
+  width: 50px;
+}
+
+body .rhap_main{
+  width: 800px;
+  text-align: left;
+  margin: 0 auto;
+  position: relative;
+}
+
+body .rhap_additional-controls, body .rhap_volume-controls{
+  display: none;
+}
+
+body .rhap_main-controls{
+  position: absolute;
+  top: 10px;
+  left: 13px;
+}
+
+body .rhap_progress-section{
+  margin-left: 160px;
+  margin-top: 20px;
+}
+
+body .rhap_progress-filled{
+  background: #fff;
+}
+
+html{
+  padding: 0;
+  background-color: #EE1E4E;
+}

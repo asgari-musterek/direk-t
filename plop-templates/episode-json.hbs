@@ -1,0 +1,10 @@
+`${(fileContents.indexOf('{') > 0 ? ', ' : '')}{
+  "author": [${data.authors.map((author,i)=>(`
+  "${author}"${i === data.authors.length-1 ? '' : ','}`)).join('')}
+  ],
+  "title": "${data.title}",
+  "pubDate": "${data.pubDate}",
+  "fileSize": "${data.fileSize}",
+  "duration": "${data.duration}",
+  "key": "${paramCase(removeDiacritics(data.title))}"
+}]`

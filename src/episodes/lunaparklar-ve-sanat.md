@@ -1,0 +1,1 @@
+Sanat üzerine dişe dokunmayan yalan yanlış diyaloglar. Bu bölümde; lunaparklar mı bir sanat eseridir yoksa Bilal Erdoğan mı? Wattpad’te yazılanlar kitaplaştırılırsa kitaptan sayılır mı? Sanatın sanat olduğuna kim karar veriyor? Light Novelları hangi tür çapsızlar okur? Hepsinin cevabı ve daha fazlası bu bölümde. Favori podcast platformunuzdan ısrarla isteyin.

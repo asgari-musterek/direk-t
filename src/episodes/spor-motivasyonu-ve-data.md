@@ -1,0 +1,1 @@
+Düz adamların data ile imtihanı!

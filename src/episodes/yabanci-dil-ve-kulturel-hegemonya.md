@@ -1,0 +1,1 @@
+Ozensiz ilk bolum.
