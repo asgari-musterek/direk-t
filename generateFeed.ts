@@ -26,7 +26,7 @@ Handlebars.registerHelper('join', join)
 Handlebars.registerHelper('description', getEpisodeDescription)
 
 fs.writeFileSync(
-  './feed.xml',
+  './public/feed.xml',
   template({
     channel: channel,
     baseURL: process.env.NEXT_PUBLIC_URL,
