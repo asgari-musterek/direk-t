@@ -44,7 +44,7 @@ export default function Post(props: Props) {
             </Text>
           </Card>
           <div>
-            <Link href={props.url}>
+            <Link href={props.url} download="episode">
               <Button icon={<img src={process.env.NEXT_PUBLIC_URL+"download.svg"} alt="download" />}>Download</Button>
             </Link>
             <Button onClick={() => props.onPlay(props.url)} icon={<img src={process.env.NEXT_PUBLIC_URL+"play.svg"} alt="play" />}>
