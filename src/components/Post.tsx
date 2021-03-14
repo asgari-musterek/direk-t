@@ -2,6 +2,7 @@ import 'react-h5-audio-player/lib/styles.css'
 import { border } from 'styled-system'
 import { Heading, Text, Button, Grid, Link, Card, Markdown } from './index'
 import styled from 'styled-components'
+import { format, formatDistanceToNow, addYears, isAfter } from 'date-fns'
 
 type Props = {
   title: string
@@ -21,6 +22,8 @@ const Img = styled.img`
 `
 
 export default function Post(props: Props) {
+  const date = new Date(props.pubDate)
+  const isRecent = isAfter(date, addYears(new Date(), -1))
   return (
     <div>
       <Grid gridTemplateColumns={'auto 1fr'}>
@@ -29,7 +32,7 @@ export default function Post(props: Props) {
         </Card>
         <Card ml={4}>
           <Heading>{props.title}</Heading>
-          <Text variant="light">{new Date(props.pubDate).toDateString()}</Text>
+          <Text variant="light">{isRecent ? formatDistanceToNow(date, { addSuffix: true }) : format(date, 'dd MMMM yyyy')}</Text>
           <Card>
             <Text variant="note">
               Katilimcilar:{' '}
