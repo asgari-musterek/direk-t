@@ -1,7 +1,10 @@
 {
-  "name": "learn-starter",
+  "name": "podcast-website",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "^15.12.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
