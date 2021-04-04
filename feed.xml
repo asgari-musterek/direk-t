@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  version="2.0"
+  >
+  <channel>
+    <title>Direk-t</title>
+    <googleplay:author>Mkg, Zaib Atsu, Yardo</googleplay:author>
+    <author>Mkg, Zaib Atsu, Yardo</author>
+    <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+    <itunes:email>mehmetmorcay@gmail.com</itunes:email>
+    <itunes:category text="Technology" />
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Relationships" />
+      <itunes:category text="Philosophy" />
+    </itunes:category>
+    <googleplay:category>Society &amp; Culture</googleplay:category>
+    <itunes:keywords>Turkish, critical thinking, technology, society</itunes:keywords>
+    <itunes:new-feed-url>https://asgari-musterek.github.io/direk-t/feed.xml</itunes:new-feed-url>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://asgari-musterek.github.io/direk-t/logo.jpg" />
+    <image>
+      <url>https://asgari-musterek.github.io/direk-t/logo.png</url>
+      <title>Direk-t</title>
+      <link>https://asgari-musterek.github.io/direk-t/</link>
+    </image>
+    <googleplay:owner>mehmetmorcay@gmail.com</googleplay:owner>
+    <itunes:owner>
+      <itunes:name>Mehmet Morcay</itunes:name>
+      <itunes:email>mehmetmorcay@gmail.com</itunes:email>
+    </itunes:owner>
+    <copyright>© Copyright is for losers</copyright>
+    <description>Hiç-kimseye hitaben bir takım diyalektik düşünceler. Konuşmaktan keyif aldığımız konular üzerine dinleyici kaygısı olmadan spontane muhabbet ediyoruz. İçerikte yanlış bilgiler gecebilir, teyid ediniz. Podcastle ilgili reklam ve işbirliği fikirlerinizi kendinize saklayın. Kişisel değerlerinize hakaret etmişsek bu muhtemelen hakaret değildir; siz öyle algılamışsınızdır. Neyi doğru anladınız ki zaten.</description>
+    <itunes:summary>Hiç-kimseye hitaben bir takım diyalektik düşünceler. Konuşmaktan keyif aldığımız konular üzerine dinleyici kaygısı olmadan spontane muhabbet ediyoruz. İçerikte yanlış bilgiler gecebilir, teyid ediniz. Podcastle ilgili reklam ve işbirliği fikirlerinizi kendinize saklayın. Kişisel değerlerinize hakaret etmişsek bu muhtemelen hakaret değildir; siz öyle algılamışsınızdır. Neyi doğru anladınız ki zaten.</itunes:summary>
+    <googleplay:description>Hiç-kimseye hitaben bir takım diyalektik düşünceler. Konuşmaktan keyif aldığımız konular üzerine dinleyici kaygısı olmadan spontane muhabbet ediyoruz. İçerikte yanlış bilgiler gecebilir, teyid ediniz. Podcastle ilgili reklam ve işbirliği fikirlerinizi kendinize saklayın. Kişisel değerlerinize hakaret etmişsek bu muhtemelen hakaret değildir; siz öyle algılamışsınızdır. Neyi doğru anladınız ki zaten.</googleplay:description>
+    <googleplay:image href="https://asgari-musterek.github.io/direk-t/logo.jpg" />
+    <language>tr</language>
+    <link>https://asgari-musterek.github.io/direk-t/</link>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Yabancı Dil ve Kültürel Hegemonya</title>
+      <pubDate>Wednesday, 20 Oct 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://asgari-musterek.github.io/direk-t/eps/001-yabanci-dil-ve-kulturel-hegemonya.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>1:42:35</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Ozensiz ilk bolum.</description>
+    </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Lunaparklar ve sanat</title>
+      <pubDate>Tuesday, 27 Oct 2020 23:00:00 GMT</pubDate>
+      <enclosure url="https://asgari-musterek.github.io/direk-t/eps/002-lunaparklar-ve-sanat.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>54:28</itunes:duration>
+      <guid isPermaLink="false">cepod02</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Sanat üzerine dişe dokunmayan yalan yanlış diyaloglar. Bu bölümde; lunaparklar mı bir sanat eseridir yoksa Bilal Erdoğan mı? Wattpad’te yazılanlar kitaplaştırılırsa kitaptan sayılır mı? Sanatın sanat olduğuna kim karar veriyor? Light Novelları hangi tür çapsızlar okur? Hepsinin cevabı ve daha fazlası bu bölümde. Favori podcast platformunuzdan ısrarla isteyin.</description>
+    </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Spor motivasyonu ve data</title>
+      <pubDate>Tuesday, 18 Nov 2020 12:00:00 GMT</pubDate>
+      <enclosure url="https://asgari-musterek.github.io/direk-t/eps/003-spor-motivasyonu-ve-data.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>40:09</itunes:duration>
+      <guid isPermaLink="false">cepod03</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Düz adamların data ile imtihanı!</description>
+    </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Youtube kanalları ve değişen medya</title>
+      <pubDate>Tuesday, 1 Dec 2020 12:00:00 GMT</pubDate>
+      <enclosure url="https://asgari-musterek.github.io/direk-t/eps/004-youtube-kanallari-ve-degisen-medya.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>1:08:50</itunes:duration>
+      <guid isPermaLink="false">cepod04</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Bu bölümde; türkçe youtube içerikleri, içerik üretme motivasyonu, Flu TV, tarım vlog, Youtube’un dibi, Türkiye toplumunun değişen kendini ifade ediş biçimi, marketingin topluma etkisi, Every Frame a Painting, Let&amp;amp#39;s Tape It, Hydraulic Press Channel, 李子柒 Liziqi, Nevşin Mengü youtube kanalı, my mechanics, bir arkadasın izlediği kanallar, Youglish.com, ASMR(autonomous sensory meridian response) videoları, Youtube’un medyayı ve kitleyle iletişimi değiştirmesi, Taylan Yıldız, BaBaLa TV, Caner Özyurtlu, Loş Sohbet, Youtube Ünlüleri ve popülizm, İlber Ortaylı, internet etiği gibi konuları konuştuk.</description>
+    </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Konunun cahilleri: Turizm</title>
+      <pubDate>Tuesday, 8 Dec 2020 12:00:01 GMT</pubDate>
+      <enclosure url="https://asgari-musterek.github.io/direk-t/eps/005-konunun-cahilleri-turizm.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>59:39</itunes:duration>
+      <guid isPermaLink="false">cepod05</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Bu bölümde turizm ve otelcilik konusunu konuştuk. mkg ve zaib konunun cahilleri olarak sorular sordu, yardıranadam sektörün içinden biri olarak cevapladı. Turizm otelciliğin kapsamı, içki kültürü, &amp;ampquot;iyi eğitim alan son nesil&amp;ampquot;, martini nasıl istenir, otellerde yıldız sistemi, butik oteller, her şey dahilcilik, otel turizmi vs şehir turizmi, ülkenin durumu ve ülkeyi satmak gerekliliği üzerine ahkam kesildi.</description>
+    </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Ülkenin prestiji ve turizmsel dangalaklıklar</title>
+      <pubDate>Tuesday, 15 Dec 2020 12:00:01 GMT</pubDate>
+      <enclosure url="https://asgari-musterek.github.io/direk-t/eps/006-ulkenin-prestiji-ve-turizmsel-dangalaklıklar.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>42:57</itunes:duration>
+      <guid isPermaLink="false">cepod06</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Alman mühendisliği bir imaj çalışmasının ürünü mü? Mesir macunu üzerine oyunlar mı oynanıyor? Yerel değerler markalaşamıyor mu? Hepsine evet cevabı verilen bu bölümde türkiyede kurumsal kimliksizlik ve tek ampülcülük, şehirlerarası yollardaki işgüzar kasaba belediyeleri, standardizasyonun önemi ve kurumsal sürdürülübilirlikten bahsedildi.</description>
+    </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Programlamaya nereden baslanır?</title>
+      <pubDate>Friday, 22 Jan 2021 12:00:01 GMT</pubDate>
+      <enclosure url="https://asgari-musterek.github.io/direk-t/eps/007-programlamaya-nereden-baslanir.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>1:41:56</itunes:duration>
+      <guid isPermaLink="false">cepod07</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Yazılım sektörüne nasıl girilir? Neden girilir? Önce ingilizce mi öğrenilmeli? Herkes girmeli mi? Çalışma şartları nasıl? Gelecekte nolur? Yazılım diğer iş gruplarına nasıl etki eder? Yazılımcılar kendilerini işsiz bırakacak bir yazılım yapacaklar mı? Yazılımcılar solcu mu? Düzeltmeler: CRM degil CMS! Linkler: https://freecodecamp.com https://hackerrank.com https://adventofcode.com</description>
+    </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Nesil psikolojisi, Boomerlar ve Z nesli</title>
+      <pubDate>Thu, 01 Apr 2021 21:29:04 GMT</pubDate>
+      <enclosure url="https://asgari-musterek.github.io/direk-t/eps/008-nesil-psikolojisi-boomerlar-ve-z-nesli.mp3" type="audio/mpeg" length="24511281" />
+      <itunes:duration>00:25:42</itunes:duration>
+      <guid isPermaLink="false">EP8_5az8b87</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Nesiller ve nesiller arasındaki farklılıklar gibi konuları konuşurken Z Nesli kelimesini bu kadar az kullanmayı biz de beklemiyorduk. Gayet açık ki birer boomer değiliz. Eğer bir boomer olsaydık bizden küçüklere en az 100 defa Z Nesli dememiz gerekirdi.</description>
+    </item>
+  </channel>
+</rss>
